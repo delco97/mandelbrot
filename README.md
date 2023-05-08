@@ -1,6 +1,6 @@
 # Mandelbrot
 
-![Demo](./docs/img/demo.gif)
+![Demo](./docs/demo.gif)
 
 This project is a interactive visualization of the Mandelbrot set, written in Processing
 
